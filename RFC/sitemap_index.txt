@@ -1,0 +1,10 @@
+https://nikodemmazur76.github.io/RFC/RFC1.txt.gz
+https://nikodemmazur76.github.io/RFC/RFC2.txt.gz
+https://nikodemmazur76.github.io/RFC/RFC3.txt.gz
+https://nikodemmazur76.github.io/RFC/RFC4.txt.gz
+https://nikodemmazur76.github.io/RFC/RFC5.txt.gz
+https://nikodemmazur76.github.io/RFC/RFC6.txt.gz
+https://nikodemmazur76.github.io/RFC/RFC7.txt.gz
+https://nikodemmazur76.github.io/RFC/RFC8.txt.gz
+https://nikodemmazur76.github.io/RFC/RFC9.txt.gz
+https://nikodemmazur76.github.io/RFC/RFC10.txt.gz

@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /login
+Sitemap:https://nikodemmazur76.github.io/RFC/sitemap_index.txt
+Sitemap:https://nikodemmazur76.github.io/QXF/sitemap_index.txt
+Sitemap:https://nikodemmazur76.github.io/ATN/sitemap_index.txt
+Sitemap:https://nikodemmazur76.github.io/BDO/sitemap_index.txt
+Sitemap:https://nikodemmazur76.github.io/WUQ/sitemap_index.txt
